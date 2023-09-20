@@ -76,7 +76,7 @@ January 2023 - September 2023
 >
 > * Rita Auon : raoun1@lsu.edu
 >
-> * Frédéric Marazzato 
+> * Frédéric Marazzato : marazzato@arizona.edu
   
 **`Python Developer`**
 
@@ -134,7 +134,7 @@ May 2021 - August 2021
 >
 > * Peter Wolenski : pwolens@lsu.edu
 >
-> * Frédéric Marazzato 
+> * Frédéric Marazzato : marazzato@arizona.edu
 
 **`General Maintenance`**
 
