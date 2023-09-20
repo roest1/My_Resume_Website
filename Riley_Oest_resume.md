@@ -4,6 +4,20 @@
 
 ---
 
+
+[LinkedIn](https://www.linkedin.com/in/rileyoest/)
+<img align="left" alt="LinkedIn"
+width="30px" style="padding-right:10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+
+[Handshake](https://app.joinhandshake.com/stu/users/25074710)
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJInyehWy6G6Kni-N-qKs6_k0qml2YgErm7E4jwOZeig&s" />
+
+[GitHub](https://github.com/roest1)
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+---
+
 ## Education
 
 **`Louisiana State University`**
@@ -38,7 +52,9 @@ September 2023 - Present
 
 * Building algorithmic investment strategies for options trading
 
-> Advised and collaborated with Kurtay Ogunc : kurtay@lsu.edu
+> Advised and collaborated with:
+> 
+> * Kurtay Ogunc : kurtay@lsu.edu
 
 **`Applied Research Scientist`**
 
@@ -58,7 +74,7 @@ January 2023 - September 2023
 >
 > * Rita Auon : raoun1@lsu.edu
 >
-> * Frédéric Marazzato : 
+> * Frédéric Marazzato 
   
 **`Python Developer`**
 
@@ -78,7 +94,11 @@ August 2022 - May 2023
 
 * [Research Paper](https://www.mdpi.com/2076-3425/11/10/1297)
 
-> Advised by Jake Iyer and Ru Li
+> Advised by:
+> 
+> * Jake Iyer
+> 
+> * Ru Li
 
 **`ITS Service Desk Assistant`**
 
@@ -106,11 +126,11 @@ May 2021 - August 2021
 
 * [Research Paper](https://pubmed.ncbi.nlm.nih.gov/36822238/)
 
-> Advised by : 
+> Advised by: 
 >
-> Frédéric Marazzato 
+> * Peter Wolenski : pwolens@lsu.edu
 >
-> Peter Wolenski : pwolens@lsu.edu
+> * Frédéric Marazzato 
 
 **`General Maintenance`**
 
@@ -124,7 +144,9 @@ June 2019 - August 2022 (Seasonal)
 
 * Repaired minor damages to rental properties
 
-> Manager : Scott Collins : (309)-255-9001
+> Manager: 
+> 
+> * Scott Collins : (309)-255-9001
 
 **`General Contractor`**
 
@@ -140,19 +162,21 @@ May 2022 - August 2023 (Seasonal)
 
 * Concrete (flat-work)
 
-> Manager : Scott Collins : (309)-255-9001
+> Manager: 
+> 
+> * Scott Collins : (309)-255-9001
 
-**`Mower & Artist`**
+**`Score Keeper`**
 
-**Macomb Country Club**
+**Macomb High School**
 
-May 2020 - August 2020 
+August 2017 - May 2020 
 
-* Mowing crew
+* Took admissions / operated scoreboards for high school games
 
-* Performed live music at the restaurant
-
-> Clubhouse : (309)-837-1909
+> Athletic Director:
+> 
+> * Steve Horrell : (309)-333-9833
 
 **`Cashier`**
 
@@ -166,17 +190,15 @@ May 2018 - August 2020
 
 * Helped customers to their vehicles with heavy items
 
-> Store : (309)-833-5508
+**`Mower & Artist`**
 
-**`Score Keeper`**
+**Macomb Country Club**
 
-**Macomb High School**
+May 2020 - August 2020 
 
-August 2017 - May 2020 
+* Mowing crew
 
-* Took admissions / operated scoreboards for high school games
-
-> Athletic Director : Steve Horrell : (309)-333-9833
+* Performed live music at the restaurant
   
 ---
 
@@ -215,16 +237,3 @@ May 2015 - August 2016
 * I've had a passion for playing guitar since 2018
 
 ---
-
-> Riley Oest : rileyoest13@gmail.com : (309)-259-0363
-
-[LinkedIn](https://www.linkedin.com/in/rileyoest/)
-<img align="left" alt="LinkedIn"
-width="30px" style="padding-right:10px;"
-src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-
-[Handshake](https://app.joinhandshake.com/stu/users/25074710)
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJInyehWy6G6Kni-N-qKs6_k0qml2YgErm7E4jwOZeig&s" />
-
-[GitHub](https://github.com/roest1)
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
