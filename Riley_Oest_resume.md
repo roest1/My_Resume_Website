@@ -56,6 +56,8 @@ September 2023 - Present
 > 
 > * Kurtay Ogunc : kurtay@lsu.edu
 
+<div style="margin-bottom: 10em;"></div>
+
 **`Applied Research Scientist`**
 
 **LSU Mathematics Department**
@@ -99,6 +101,8 @@ August 2022 - May 2023
 > * Jake Iyer
 > 
 > * Ru Li
+
+<div style="margin-bottom: 12em;"></div>
 
 **`ITS Service Desk Assistant`**
 
@@ -147,6 +151,8 @@ June 2019 - August 2022 (Seasonal)
 > Manager: 
 > 
 > * Scott Collins : (309)-255-9001
+
+<div style="margin-bottom: 10em;"></div>
 
 **`General Contractor`**
 
@@ -201,6 +207,9 @@ May 2020 - August 2020
 * Performed live music at the restaurant
   
 ---
+
+<div style="margin-bottom: 10em;"></div>
+
 
 ## Volunteering
 
